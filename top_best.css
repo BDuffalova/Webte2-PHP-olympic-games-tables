@@ -1,0 +1,64 @@
+html {
+    width: 100%;
+    margin: 0;
+    overflow: auto;
+}
+header {
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    color: aliceblue;
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+}
+
+#athletes_data {
+    width: fit-content;
+    overflow: auto;
+}
+
+.dataTables_wrapper {
+    display: block;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    overflow: auto;
+}
+
+.row {
+    width: 100%;
+}
+
+#info {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 15px;
+    overflow: auto;
+}
+
+#content {
+    width: 80%;
+    margin-right: auto;
+    overflow: auto;
+    margin-left: auto;
+}
+#info input{
+    justify-self: end;
+    width: 50%;
+}
+
+#info label {
+        width: 50%;
+}
+
+#user_logins, #user_actions{
+    width: fit-content;
+    overflow: auto;
+}
